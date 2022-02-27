@@ -1,6 +1,6 @@
 {
   "name": "tb-react-live-chat-loader",
-  "version": "2.7.4",
+  "version": "2.7.5",
   "description": "Implement live chat in your react app without taking a performance hit.",
   "main": "dist/index.js",
   "module": "module/index.js",
@@ -69,5 +69,7 @@
     "dist/*",
     "module/*"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "npm-pack-all": "^1.12.7"
+  }
 }
