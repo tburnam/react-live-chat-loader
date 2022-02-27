@@ -116,8 +116,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "react-live-chat-loader",
-  "projectOwner": "calibreapp",
+  "projectName": "tb-react-live-chat-loader",
+  "projectOwner": "tburnam",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
