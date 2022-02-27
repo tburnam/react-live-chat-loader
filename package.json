@@ -1,5 +1,5 @@
 {
-  "name": "react-live-chat-loader",
+  "name": "tb-react-live-chat-loader",
   "version": "2.7.3",
   "description": "Implement live chat in your react app without taking a performance hit.",
   "main": "dist/index.js",
@@ -35,7 +35,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/calibreapp/react-live-chat-loader.git"
+    "url": "https://github.com/tburnam/tb-react-live-chat-loader.git"
   },
   "peerDependencies": {
     "react": "^16.14.0 || ^17.0.0"
