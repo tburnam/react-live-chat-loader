@@ -35,7 +35,7 @@ const loadScript = (appId: string): boolean => {
         s.type = 'text/javascript'
         s.async = true
         s.src = `${domain}/widget/${appId}`
-        var x = d.getElementsByTagName('script')[0]
+        var x = d.getElementsByTagName('script')[d.getElementsByTagName('script').length - 1]
         x.parentNode?.insertBefore(s, x)
       }
       l()
